@@ -27,7 +27,7 @@ This sophisticated integration of advanced AI technologies ensures that MindEase
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/IIUday/MindEase]
+   git clone https://github.com/IIUday/MindEase
 
 2. **Install Dependencies:**
     ```bash
